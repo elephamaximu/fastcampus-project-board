@@ -8,7 +8,8 @@ group = 'com.plato'
 version = '0.0.1-SNAPSHOT'
 
 java {
-	sourceCompatibility = '1.8'
+	// sourceCompatibility = '1.8'
+	sourceCompatibility = '17'
 }
 
 configurations {
